@@ -4,10 +4,10 @@ In this sample study, 249 mice identified with SCC tumor growth were treated wit
 
 First I cleaned the data and removed duplicate entries, then generated summary statistics, created bar charts and pie charts, calculated quartiles, found outliers, and created a box plot. I also created a line plot and a scatter plot to display treatment of one example mouse, along with correlation and regression of one of the treatments. I included some observations at the top of the notebook as well. Below are some screenshots of the visualizations I created.
 
-![screenshot1](imgs/micecountperdrug.png)
-![screenshot2](imgs/boxplot.png)
-![screenshot3](imgs/weightvsvolume.png)
-![screenshot4](imgs/regression.png)
+![micecountperdrug](img/micecountperdrug.png)
+![boxplot](img/boxplot.png)
+![weightvsvolume](img/weightvsvolume.png)
+![regression](img/regression.png)
 
 
 
